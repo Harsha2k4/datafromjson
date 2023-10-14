@@ -1,5 +1,5 @@
 import React, { useEffect, useId, useState } from "react";
-import ".utils/styles.css";
+import "./styles.css";
 import data from  "../src/utils/data.json";
 import { DataTable } from 'primereact/datatable';
 import { Column } from 'primereact/column';
